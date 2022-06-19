@@ -1,2 +1,2 @@
 TOKEN = ''
-admin_id = 1536828959
+admin_id = 
